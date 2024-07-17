@@ -1,0 +1,1 @@
+This is another project done in Fusion 360, which is a 3D modeling of a vacuum cleaner nozzle
